@@ -1,3 +1,4 @@
 # SOC_DESIGN_AND_PLANNING
 VSD PD AND SOC DESIGN WORKSHOP
 Day1
+![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/2dab584f-4a75-4868-96fc-e40c3a6d5e75)
