@@ -3,7 +3,7 @@
 Hello, everyone! I'll be sharing what I have learned during a 2 weeks of workshop on Digital VLSI SOC design and planning using openLANE tool and sky-130nm PDK offered by VSD Pvt ltd.
 
 **Day 1 -Inception of open-source EDA, OpenLANE and sky130 PDK**
-Introduction to QFN-48 Package, chip, pads, core, die and IPs# SOC_DESIGN_AND_PLANNING
+Introduction to QFN-48 Package, chip, pads, core, die and IPs
 
 ![335806110-a5d5897c-74a0-4c4b-b0e1-cb4186923e32](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/8aeebd01-6710-41f9-88b0-ed75559323ce)
 ![335806774-66f28906-d9da-4952-a27a-f39f96136841](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/fccb2d3e-15c2-46bd-9ab5-e765b5de05b6)
