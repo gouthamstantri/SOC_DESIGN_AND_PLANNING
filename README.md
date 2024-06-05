@@ -27,5 +27,11 @@ Theopensource foundry PDK used in this workshop is **SKYWATER 130nm** which is m
 
 **Simplified RTL2GDS flow**
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/93118465-e295-4bd8-be0b-4c07f47b918d)
-
+**Introduction to OpenLANE and Strive chipsets**
+In This workshop we will be using the opensource flow called **OPENLANE** its components are as shown in below figure
+it is combination of many opensource tools such as
+**YOSYS**
+**FAULT**
+**OPENROAD**
+etc..
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/087c298a-4780-4073-8504-9f32ad675499)
