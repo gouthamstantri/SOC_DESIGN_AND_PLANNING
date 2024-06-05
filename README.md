@@ -1,4 +1,4 @@
-<p align="center">***DIGITAL VLSI SOC DESIGN AND PLANNING WORKSHOP***</p>
+**<p align="center">DIGITAL VLSI SOC DESIGN AND PLANNING WORKSHOP**</p>
 
 <p>Hello, everyone! I'll be sharing what I have learned during a 2 weeks of workshop on Digital VLSI SOC design and planning using openLANE tool and sky-130nm PDK offered by VSD Pvt ltd.</p>
 
