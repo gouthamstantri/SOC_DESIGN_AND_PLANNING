@@ -39,3 +39,12 @@ it is combination of many opensource tools such as
 **<p align="center">OPENSTA**</p>
 etc..
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/087c298a-4780-4073-8504-9f32ad675499)
+**<p align="center">open-source EDA tools Handson**</p>
+We have to enter in to the openlane path, type docker after Here we use flow.tcl file to open the tool in interactive mode
+![335865271-1924f29c-a16f-4854-8794-c52f8000c7d1](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/cde744d7-711d-4bab-9f5d-8e64662f99fb)
+
+<p>Now its ready for the commands
+
+here we are opening the picorv32a.v design</p>
+
+![335866282-8f6a0388-12ea-4996-95eb-9d2a06d739f2](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/e795c16b-5021-483d-987d-2bcc01105306)
