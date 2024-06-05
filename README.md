@@ -11,10 +11,11 @@ Introduction to RISC-V
 
 RISC architecture that were developed at the University of California, Berkeley. RISC is an open standard instruction set architecture (ISA) based on established RISC principles. Unlike most other ISA designs, RISC-V is provided under open source licenses that do not require fees to use. A number of companies are offering or have announced RISC-V hardware, open source operating systems with RISC-V support are available, and the instruction set is supported in several popular software toolchains. 
 ![335808593-fdda8d67-121b-4195-9c81-3e3ea5755f87](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/c6b4509a-650f-4952-8018-a3d68c044168)
-Introduction to all components of open-source digital asic design
 
+Introduction to all components of open-source digital asic design
+![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/51e3e3e4-5f1b-4275-abfd-2571361a9531)
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/f1038ff3-1163-4797-89aa-9ad00a606c12)
 
-![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/51e3e3e4-5f1b-4275-abfd-2571361a9531)
+
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/93118465-e295-4bd8-be0b-4c07f47b918d)
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/087c298a-4780-4073-8504-9f32ad675499)
