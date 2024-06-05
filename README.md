@@ -13,6 +13,13 @@ RISC architecture that were developed at the University of California, Berkeley.
 
 **Introduction to all components of open-source digital asic design**
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/51e3e3e4-5f1b-4275-abfd-2571361a9531)
+To design ASIC chips, few tools or things required. Those are
+
+**RTL Design**: register-transfer level (RTL) is a design abstraction which models a synchronous digital circuit. for this designs many open sorces are available. like, librecores.org, opencores.org, github.com, etc...
+
+**EDA tools**: The term Electronic Design Automation (EDA) refers to the tools that are used to design and verify integrated circuits (ICs). open sorces tools are available like Qflow, OpenROAD, OpenLANE, etc.
+
+**PDK data**: PDK is process design kit. It is interface between FAB and design.
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/f1038ff3-1163-4797-89aa-9ad00a606c12)
 
 
