@@ -21,8 +21,9 @@ To design ASIC chips, few tools or things required. Those are
 **EDA tools**: The term Electronic Design Automation (EDA) refers to the tools that are used to design and verify integrated circuits (ICs). open sorces tools are available like Qflow, OpenROAD, OpenLANE, etc.
 
 **PDK data**: PDK is process design kit. It is interface between FAB and design.
+Theopensource foundry PDK used in this workshop is **SKYWATER 130nm** which is made open source by Google and Skywater foundry (efabless) under apache licensce
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/f1038ff3-1163-4797-89aa-9ad00a606c12)
 
-
+**Simplified RTL2GDS flow**
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/93118465-e295-4bd8-be0b-4c07f47b918d)
 ![image](https://github.com/gouthamstantri/SOC_DESIGN_AND_PLANNING/assets/51639089/087c298a-4780-4073-8504-9f32ad675499)
